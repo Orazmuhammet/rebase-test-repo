@@ -1,2 +1,7 @@
+package ru.rutmiit;
 
-Test Java project with git rebase
+public class Main {
+
+System.out.println(Hello World!");
+}
+}
